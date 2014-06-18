@@ -1,0 +1,4 @@
+MyFirstModWithHelp
+==================
+
+Just something ingore.
